@@ -1,0 +1,2 @@
+# ThirdQASmokeTestPlaceLab
+Single Place Search
